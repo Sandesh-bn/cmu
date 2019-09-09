@@ -1,0 +1,10 @@
+
+@import 'components/header.css';
+@import 'components/card.css';
+
+@import 'layouts/home.css';
+
+.link-router {
+  color: #6a87e3;
+  text-decoration: none !important;
+}
