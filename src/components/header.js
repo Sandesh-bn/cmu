@@ -8,10 +8,7 @@ class Header extends Component {
         <section className="logo__back">
           <div className="container-fluid">
             <div className="clearfix">
-              <div className="col-md-6 col-xs-12 col-sm-12">
-                <h2>Logo Image</h2>
-
-              </div>
+              
               <div className="col-md-6 col-xs-12 col-sm-12">
               </div>
             </div>
